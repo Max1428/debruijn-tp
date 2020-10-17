@@ -89,34 +89,34 @@ def build_kmer_dict(fichier, k):
                 dico[kmer] += 1
             else:
                 dico[kmer] = 1
-    print(dico)
+    #print(dico)
     return dico
 
 
 def build_graph(dico):
     G = nx.DiGraph()
     for key in dico:
-        prefixe = str(key)[1:]
-        suffixe = str(key)[:-1]
+        prefixe = str(key)[:-1]
+        suffixe = str(key)[1:]
         G.add_edge(prefixe, suffixe, weight=int(dico[key]))
     for n, nbrs in G.adj.items():
         for nbr, eattr in nbrs.items():
             wt = eattr['weight']
-            if wt > 0.5: print(f"({n}, {nbr}, {wt})")
+            if wt > 0.5: pass#print(f"({n}, {nbr}, {wt})")
     
     return(G)
 
 def get_starting_nodes (G):
     entree = []    
-    for i in range(0, int(G.number_of_nodes())):
-        if len(G.predecessors(i)) == 0:
-            entree.append(i)
+    for node in G.nodes:
+        if list(G.predecessors(node)) == []:
+            entree.append(node)
     return entree
 
 def get_sink_nodes (G):
     sortie = []    
-    for node in nodes(G):
-        if len(G.successors(node)) == 0:
+    for node in G.nodes:
+        if list(G.successors(node)) == []:
             sortie.append(node)
     return sortie
 
@@ -124,14 +124,28 @@ def get_contigs (G,entree,sortie):
     list_contig = []
     for i in entree:
         for j in sortie:
-            for k in all_simple_path(G, G(i), G(j), cutoff=None):
-                a = (str(k), len(k))
+            for path in nx.all_simple_paths(G, i, j, cutoff=None):
+                #print(path)
+                #print("\n")
+                contig = path[0]
+                #print(len(path))
+                for k in range(len(path)):
+                    contig = contig + path[k][:1]
+            #print(contig)
+                a = (str(contig), len(contig))
                 list_contig.append(a)
+    print(list_contig)
+
     return list_contig
 
 def save_contigs (list_contig, text):
-    with open(
-    for i in list_contig
+    with open(text, "w") as filout:
+        i = 1
+        for contig, longueur in list_contig:
+            filout.write("contig_{} len={}\n".format(i,longueur))
+            i = i + 1
+            ligne = fill(contig)
+            filout.write("{}\n".format(ligne))
 
 def fill(text, width=80):
     """Split text with a line return to respect fasta format"""
@@ -158,8 +172,11 @@ def main():
     # Get arguments and using it
     args = get_arguments()
     dico = build_kmer_dict(args.fastq_file, args.kmer_size)
-    build_graph(dico)
-    save_contigs (list_contig, ):
+    G = build_graph(dico)
+    entree = get_starting_nodes(G)
+    sortie = get_sink_nodes(G)
+    list_contig = get_contigs(G, entree, sortie)
+    save_contigs (list_contig, args.output_file)
 if __name__ == '__main__':
     main()
 

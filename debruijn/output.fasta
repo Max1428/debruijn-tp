@@ -1,0 +1,1712 @@
+contig_1 len=10
+TCAGAGTCAG
+contig_2 len=9
+TCAGAGTCA
+contig_3 len=8
+TCTAGATC
+contig_4 len=10
+TCTAGATCTA
+contig_5 len=9
+TCTAGATCT
+contig_6 len=8
+TTGGTTTT
+contig_7 len=13
+TGAGAGTGAGAGA
+contig_8 len=8
+GATCGGGA
+contig_9 len=9
+TACTCGTAC
+contig_10 len=8
+AGGAGGAG
+contig_11 len=8
+TGTGTCTG
+contig_12 len=9
+CTCATACTC
+contig_13 len=8
+AAGGGAAA
+contig_14 len=8
+ACGTGTAC
+contig_15 len=14
+CCGAAACCGAAACC
+contig_16 len=17
+CCGAAACCGAAACCACC
+contig_17 len=10
+CCGAAACCGA
+contig_18 len=12
+CCGAAACCGAAA
+contig_19 len=10
+TCATTGTCAT
+contig_20 len=11
+TCATTGTCATT
+contig_21 len=8
+AATCCAAA
+contig_22 len=8
+AATCCAAA
+contig_23 len=8
+GGAATGGG
+contig_24 len=8
+ACGCCAAC
+contig_25 len=8
+GCCTTTGC
+contig_26 len=8
+GCGCTGGC
+contig_27 len=8
+GCGCTGGC
+contig_28 len=8
+CAAGTTCA
+contig_29 len=9
+CAAGTTCAA
+contig_30 len=9
+GCGAACGCG
+contig_31 len=10
+GCGAACGCGA
+contig_32 len=9
+CTGTGACTG
+contig_33 len=9
+TTTACTTTT
+contig_34 len=9
+AAATGGAAA
+contig_35 len=8
+AGCGCCAG
+contig_36 len=8
+TTAAAGTT
+contig_37 len=9
+TTAAAGTTA
+contig_38 len=8
+CTCCCTCT
+contig_39 len=10
+TGCTGATGCT
+contig_40 len=8
+GCATGTGC
+contig_41 len=8
+GCTATAGC
+contig_42 len=8
+CGACCGCG
+contig_43 len=9
+GGCAGGGGC
+contig_44 len=9
+GGCACAGGC
+contig_45 len=8
+CACCCTCA
+contig_46 len=8
+CTTATACT
+contig_47 len=9
+CTTATACTT
+contig_48 len=8
+ACAAACAC
+contig_49 len=8
+TGGATTTG
+contig_50 len=8
+TGGATTTG
+contig_51 len=13
+GAATTAGAATTAC
+contig_52 len=10
+GAATTAGAAT
+contig_53 len=11
+GAATTAGAATT
+contig_54 len=11
+GAATTAGAATT
+contig_55 len=8
+AACATCAA
+contig_56 len=8
+ATATGTAT
+contig_57 len=8
+ACTTCGAC
+contig_58 len=9
+CTTGTCCTT
+contig_59 len=11
+CTTTTGCTTTT
+contig_60 len=10
+GGCGCAGGCG
+contig_61 len=8
+CATTAGCA
+contig_62 len=8
+CAAGCGCA
+contig_63 len=10
+AAACTGAAAC
+contig_64 len=10
+AAACTGAAAC
+contig_65 len=8
+CCATGCCC
+contig_66 len=11
+AGGAGTAGGAG
+contig_67 len=8
+AGGAGTAG
+contig_68 len=10
+CGAGATCGAG
+contig_69 len=9
+CGAGATCGA
+contig_70 len=8
+GCCTAGGC
+contig_71 len=9
+CATCCTCAT
+contig_72 len=12
+CATCCTCATCCT
+contig_73 len=8
+CCACTTCC
+contig_74 len=8
+TGTAAATG
+contig_75 len=8
+GATGAGGA
+contig_76 len=14
+AAGATCAAGATCAG
+contig_77 len=10
+AAGATCAAGA
+contig_78 len=12
+AAGATCAAGATC
+contig_79 len=9
+AAGATCAAG
+contig_80 len=16
+AAGATCAAGATCAGTT
+contig_81 len=8
+GAAAAGGA
+contig_82 len=8
+GAAAAGGA
+contig_83 len=10
+GGAGTCGGAG
+contig_84 len=8
+CGCCTGCG
+contig_85 len=9
+TTGAGGTTG
+contig_86 len=8
+TAGCAGTA
+contig_87 len=8
+TTAAATTT
+contig_88 len=8
+TGAGCTTG
+contig_89 len=8
+TGAGCTTG
+contig_90 len=8
+AGTTCTAG
+contig_91 len=8
+AGTCTCAG
+contig_92 len=9
+AGTCTCAGT
+contig_93 len=8
+AGTCTCAG
+contig_94 len=8
+CCTGATCC
+contig_95 len=11
+GAGGCTGAGGC
+contig_96 len=9
+GAGGCTGAG
+contig_97 len=8
+GCAGCTGC
+contig_98 len=8
+AAATGAAA
+contig_99 len=8
+CCTGTCCC
+contig_100 len=8
+ACCCTAAC
+contig_101 len=8
+ACCCTAAC
+contig_102 len=9
+ATTGACATT
+contig_103 len=8
+ATCCGAAT
+contig_104 len=10
+ATCCGAATCC
+contig_105 len=8
+CACAAGCA
+contig_106 len=8
+CACAAGCA
+contig_107 len=9
+CCATTTCCA
+contig_108 len=8
+TGTCACTG
+contig_109 len=8
+TGCAAGTG
+contig_110 len=9
+GCATACGCA
+contig_111 len=9
+GCATACGCA
+contig_112 len=8
+TTATGATT
+contig_113 len=8
+CTACATCT
+contig_114 len=8
+TTACCCTT
+contig_115 len=9
+TTGTTCTTG
+contig_116 len=9
+CCCAAACCC
+contig_117 len=9
+TATGCTTAT
+contig_118 len=9
+TATGCTTAT
+contig_119 len=8
+CATTAACA
+contig_120 len=9
+GCAATCGCA
+contig_121 len=8
+CGGGAACG
+contig_122 len=9
+TTCGGTTTC
+contig_123 len=9
+ACGAACACG
+contig_124 len=10
+ACGAACACGA
+contig_125 len=9
+AACAATAAC
+contig_126 len=11
+AACAATAACAA
+contig_127 len=8
+GTGCCAGT
+contig_128 len=8
+GTGCCAGT
+contig_129 len=8
+CGTTACCG
+contig_130 len=8
+TTATACTT
+contig_131 len=8
+TTATACTT
+contig_132 len=11
+AGTGGTAGTGG
+contig_133 len=12
+AGTGGTAGTGGT
+contig_134 len=9
+AGTGGTAGT
+contig_135 len=10
+AGTGGTAGTG
+contig_136 len=8
+ACACAGAC
+contig_137 len=8
+ACCATGAC
+contig_138 len=8
+CTTCCCCT
+contig_139 len=8
+ACGAAGAC
+contig_140 len=11
+CAGGACCAGGA
+contig_141 len=8
+GGGGTGGG
+contig_142 len=8
+ACTCGTAC
+contig_143 len=8
+TGCCCGTG
+contig_144 len=8
+GTATGTGT
+contig_145 len=11
+GGTTAGGGTTA
+contig_146 len=8
+TACCGGTA
+contig_147 len=9
+TTCACTTTC
+contig_148 len=8
+TTTGCATT
+contig_149 len=8
+CTCAGGCT
+contig_150 len=8
+CTCAGGCT
+contig_151 len=9
+TATGATTAT
+contig_152 len=8
+TAGTCCTA
+contig_153 len=9
+ACCTGCACC
+contig_154 len=8
+AGCGCAAG
+contig_155 len=8
+GTTTTAGT
+contig_156 len=12
+GACGGAGACGGA
+contig_157 len=8
+GAGCACGA
+contig_158 len=8
+AGCAAGAG
+contig_159 len=8
+AGCAAGAG
+contig_160 len=9
+GAAGGAGAA
+contig_161 len=8
+GAAGGAGA
+contig_162 len=10
+CTCGAGCTCG
+contig_163 len=8
+AACCAGAA
+contig_164 len=8
+ATCTGGAT
+contig_165 len=8
+ATCTGGAT
+contig_166 len=12
+TAGAGCTAGAGC
+contig_167 len=8
+TAAATTTA
+contig_168 len=10
+ATCAATATCA
+contig_169 len=8
+ATCAATAT
+contig_170 len=9
+TACTAGTAC
+contig_171 len=11
+GAGTTGGAGTT
+contig_172 len=9
+GAGTTGGAG
+contig_173 len=10
+TGGATGTGGA
+contig_174 len=8
+GCAAGGGC
+contig_175 len=8
+TGGAACTG
+contig_176 len=8
+CACACTCA
+contig_177 len=8
+ATAAGCAT
+contig_178 len=8
+ACAGGTAC
+contig_179 len=8
+GTCGCGGT
+contig_180 len=8
+TCATGGTC
+contig_181 len=8
+TGATCTTG
+contig_182 len=9
+ACCCGGACC
+contig_183 len=8
+ACCCGGAC
+contig_184 len=8
+CGGAAACG
+contig_185 len=8
+GACATGGA
+contig_186 len=8
+CCCTATCC
+contig_187 len=10
+TTGTCATTGT
+contig_188 len=15
+TTGTCATTGTCAAAG
+contig_189 len=15
+TTGTCATTGTCAAAG
+contig_190 len=8
+CTACAGCT
+contig_191 len=8
+AGATTTAG
+contig_192 len=10
+TGGACATGGA
+contig_193 len=10
+CTTTATCTTT
+contig_194 len=10
+CTTTATCTTT
+contig_195 len=10
+CTTTATCTTT
+contig_196 len=9
+CTTTATCTT
+contig_197 len=8
+AAGTGTAA
+contig_198 len=8
+TCACGCTC
+contig_199 len=8
+GGACTGGG
+contig_200 len=8
+AACAGGAA
+contig_201 len=8
+GATGTAGA
+contig_202 len=9
+CCAATTCCA
+contig_203 len=8
+AAATCTAA
+contig_204 len=8
+TCGGCTTC
+contig_205 len=11
+CGAAGGCGAAG
+contig_206 len=8
+GCTGTTGC
+contig_207 len=8
+TGAAGCTG
+contig_208 len=8
+AATTTCAA
+contig_209 len=11
+GCCTTAGCCTT
+contig_210 len=15
+GCCTTAGCCTTAGTT
+contig_211 len=13
+GCCTTAGCCTTAG
+contig_212 len=11
+GCCTTAGCCTT
+contig_213 len=13
+GCCTTAGCCTTAG
+contig_214 len=8
+CATCAGCA
+contig_215 len=9
+AGTGATAGT
+contig_216 len=8
+ATGATAAT
+contig_217 len=8
+GGTCACGG
+contig_218 len=9
+GTGGCGGTG
+contig_219 len=8
+AGATGCAG
+contig_220 len=8
+AACACGAA
+contig_221 len=14
+GGAATTGGAATTCC
+contig_222 len=11
+GGAATTGGAAT
+contig_223 len=8
+GGAATTGG
+contig_224 len=17
+GGAATTGGAATTCCACC
+contig_225 len=11
+GGAATTGGAAT
+contig_226 len=15
+GGAATTGGAATTCCA
+contig_227 len=14
+GGAATTGGAATTCC
+contig_228 len=8
+ATTTGCAT
+contig_229 len=9
+TCTGTGTCT
+contig_230 len=8
+TAGTAATA
+contig_231 len=9
+ATCATAATC
+contig_232 len=10
+TCCCCATCCC
+contig_233 len=11
+TCCCCATCCCC
+contig_234 len=9
+GATTCAGAT
+contig_235 len=9
+ATGCAAATG
+contig_236 len=10
+TCGCAGTCGC
+contig_237 len=9
+CGATTCCGA
+contig_238 len=9
+ATATGGATA
+contig_239 len=8
+ATATGGAT
+contig_240 len=8
+ATATGGAT
+contig_241 len=9
+CTGCGACTG
+contig_242 len=9
+ATAGAAATA
+contig_243 len=9
+TGACAGTGA
+contig_244 len=10
+TTCTTATTCT
+contig_245 len=11
+TTCTTATTCTT
+contig_246 len=8
+TTCTTATT
+contig_247 len=9
+TCACCCTCA
+contig_248 len=8
+AGCTTTAG
+contig_249 len=8
+AGCTTTAG
+contig_250 len=10
+CCACAGCCAC
+contig_251 len=8
+TCATCGTC
+contig_252 len=9
+TTAGACTTA
+contig_253 len=9
+TTAGACTTA
+contig_254 len=10
+TTAGACTTAG
+contig_255 len=8
+CTGGAACT
+contig_256 len=9
+AGTACCAGT
+contig_257 len=9
+GCACTTGCA
+contig_258 len=10
+GCACTTGCAC
+contig_259 len=8
+AAGCCGAA
+contig_260 len=8
+CGAAATCG
+contig_261 len=8
+ACCTCCAC
+contig_262 len=8
+GTTATAGT
+contig_263 len=11
+ATGGATATGGA
+contig_264 len=8
+TTGCCTTT
+contig_265 len=8
+TTCTCTTT
+contig_266 len=8
+GATAAGGA
+contig_267 len=10
+TCAGAATCAG
+contig_268 len=8
+TCAGAATC
+contig_269 len=8
+TCAGAATC
+contig_270 len=10
+TCAGAATCAG
+contig_271 len=10
+CTCTGCCTCT
+contig_272 len=9
+CTCTGCCTC
+contig_273 len=9
+GCGGAAGCG
+contig_274 len=9
+CGACTACGA
+contig_275 len=10
+TTTGGGTTTG
+contig_276 len=10
+GTCCGTGTCC
+contig_277 len=9
+TTATTCTTA
+contig_278 len=8
+TGTATTTG
+contig_279 len=8
+TGTATTTG
+contig_280 len=8
+GCTGCTGC
+contig_281 len=15
+ATGGTGATGGTGTGG
+contig_282 len=11
+ATGGTGATGGT
+contig_283 len=16
+ATGGTGATGGTGTGGT
+contig_284 len=12
+ATGGTGATGGTG
+contig_285 len=8
+ATGGTGAT
+contig_286 len=13
+ATGGTGATGGTGT
+contig_287 len=10
+ATGGTGATGG
+contig_288 len=14
+ATGGTGATGGTGTG
+contig_289 len=8
+CGGCCGCG
+contig_290 len=8
+TATTTGTA
+contig_291 len=8
+TCAAATTC
+contig_292 len=8
+TCAAATTC
+contig_293 len=8
+TTCCATTT
+contig_294 len=8
+CTGGTACT
+contig_295 len=8
+CAGCCGCA
+contig_296 len=8
+ACGGCAAC
+contig_297 len=8
+TCACTATC
+contig_298 len=8
+TCACTATC
+contig_299 len=8
+TGGTTGTG
+contig_300 len=8
+AAGCTGAA
+contig_301 len=8
+GTTCCAGT
+contig_302 len=8
+GGTGCTGG
+contig_303 len=8
+ACTCTGAC
+contig_304 len=10
+GAAGCCGAAG
+contig_305 len=11
+GAAGCCGAAGC
+contig_306 len=10
+GAAGCCGAAG
+contig_307 len=9
+GTGGTTGTG
+contig_308 len=12
+CCTCAGCCTCAG
+contig_309 len=9
+CCTCAGCCT
+contig_310 len=10
+CCTCAGCCTC
+contig_311 len=14
+CCTCAGCCTCAGTT
+contig_312 len=9
+TCCCAGTCC
+contig_313 len=8
+TCCCAGTC
+contig_314 len=9
+TCCCAGTCC
+contig_315 len=9
+TCCCAGTCC
+contig_316 len=8
+ACAGCGAC
+contig_317 len=9
+ACAGCGACA
+contig_318 len=8
+TCCGGCTC
+contig_319 len=8
+CGCATGCG
+contig_320 len=10
+AGGCTCAGGC
+contig_321 len=8
+ACTATAAC
+contig_322 len=8
+AACCATAA
+contig_323 len=8
+TGATTATG
+contig_324 len=8
+TGATTATG
+contig_325 len=13
+ATCAAAATCAAAG
+contig_326 len=13
+ATCAAAATCAAAG
+contig_327 len=8
+TCGAGCTC
+contig_328 len=8
+TTCGGCTT
+contig_329 len=8
+CAGGTTCA
+contig_330 len=8
+CACTGACA
+contig_331 len=10
+GCAGTGGCAG
+contig_332 len=9
+GCAGTGGCA
+contig_333 len=10
+GCAGTGGCAG
+contig_334 len=8
+CTAGGGCT
+contig_335 len=8
+GCGTTGGC
+contig_336 len=10
+GTTTGCGTTT
+contig_337 len=8
+GGGTTCGG
+contig_338 len=8
+AGGGTGAG
+contig_339 len=8
+GGAGCGGG
+contig_340 len=9
+CCAAGCCCA
+contig_341 len=10
+CATTCTCATT
+contig_342 len=9
+AAGAAGAAG
+contig_343 len=9
+GCCACGGCC
+contig_344 len=10
+GCCACGGCCA
+contig_345 len=9
+TCCAAGTCC
+contig_346 len=10
+TCCAAGTCCA
+contig_347 len=9
+GCCCAGGCC
+contig_348 len=13
+TAATTCTAATTCC
+contig_349 len=10
+TAATTCTAAT
+contig_350 len=16
+TAATTCTAATTCCACC
+contig_351 len=10
+TAATTCTAAT
+contig_352 len=14
+TAATTCTAATTCCA
+contig_353 len=13
+TAATTCTAATTCC
+contig_354 len=8
+ACTTATAC
+contig_355 len=8
+TAAAGGTA
+contig_356 len=8
+TAAGTTTA
+contig_357 len=8
+GGCTTAGG
+contig_358 len=8
+ATCATTAT
+contig_359 len=8
+AAAGTTAA
+contig_360 len=8
+AGTTTTAG
+contig_361 len=8
+CTAAAACT
+contig_362 len=9
+GTGACAGTG
+contig_363 len=8
+GTGACAGT
+contig_364 len=8
+GTGACAGT
+contig_365 len=8
+ATTGTTAT
+contig_366 len=9
+GATTGGGAT
+contig_367 len=9
+GATTGGGAT
+contig_368 len=13
+CATCCACATCCAG
+contig_369 len=11
+CATCCACATCC
+contig_370 len=12
+CATCCACATCCA
+contig_371 len=13
+CATCCACATCCAG
+contig_372 len=13
+CATCCACATCCAG
+contig_373 len=11
+CATCCACATCC
+contig_374 len=17
+CATCCACATCCAGTGGA
+contig_375 len=13
+CATCCACATCCAG
+contig_376 len=10
+ATTGTAATTG
+contig_377 len=9
+ATCTCTATC
+contig_378 len=9
+ATCTCTATC
+contig_379 len=9
+TGTTGGTGT
+contig_380 len=9
+TGTTGGTGT
+contig_381 len=9
+TGTTGGTGT
+contig_382 len=9
+TTCACATTC
+contig_383 len=9
+CTCTCACTC
+contig_384 len=10
+CCCTTGCCCT
+contig_385 len=9
+AAGAATAAG
+contig_386 len=10
+GTTACCGTTA
+contig_387 len=9
+TATAGCTAT
+contig_388 len=8
+CAAACACA
+contig_389 len=8
+CAAACACA
+contig_390 len=8
+CAAACACA
+contig_391 len=9
+CAAACACAA
+contig_392 len=8
+GTATATGT
+contig_393 len=11
+TCTTTGTCTTT
+contig_394 len=8
+TCTTTGTC
+contig_395 len=8
+ACACCTAC
+contig_396 len=9
+GCTCAAGCT
+contig_397 len=8
+GCTCAAGC
+contig_398 len=8
+GCTCGAGC
+contig_399 len=8
+GTAACTGT
+contig_400 len=8
+CGCAGACG
+contig_401 len=8
+CCTCGGCC
+contig_402 len=8
+AGTAGGAG
+contig_403 len=9
+ACCAGTACC
+contig_404 len=9
+GCATCTGCA
+contig_405 len=9
+GCATCTGCA
+contig_406 len=9
+GATCAAGAT
+contig_407 len=9
+GTATCCGTA
+contig_408 len=9
+GTATCCGTA
+contig_409 len=9
+CGGACCCGG
+contig_410 len=9
+AGTATCAGT
+contig_411 len=9
+GTGCACGTG
+contig_412 len=9
+CGGTTGCGG
+contig_413 len=10
+AGGAGAAGGA
+contig_414 len=10
+AGGAGAAGGA
+contig_415 len=10
+AGGAGAAGGA
+contig_416 len=9
+AGGAGAAGG
+contig_417 len=9
+AACGTCAAC
+contig_418 len=16
+TAAGAGTAAGAGAAGA
+contig_419 len=13
+TAAGAGTAAGAGA
+contig_420 len=12
+TAAGAGTAAGAG
+contig_421 len=11
+TAAGAGTAAGA
+contig_422 len=11
+TAAGAGTAAGA
+contig_423 len=13
+TAAGAGTAAGAGA
+contig_424 len=11
+TAAGAGTAAGA
+contig_425 len=8
+TGCAGCTG
+contig_426 len=8
+CACTGGCA
+contig_427 len=8
+CACTGGCA
+contig_428 len=11
+AAGGCTAAGGC
+contig_429 len=9
+AAGGCTAAG
+contig_430 len=10
+AGGAAGAGGA
+contig_431 len=10
+AGGAAGAGGA
+contig_432 len=10
+AGGAAGAGGA
+contig_433 len=8
+AGGAAGAG
+contig_434 len=10
+CCAAAGCCAA
+contig_435 len=10
+AGCGTCAGCG
+contig_436 len=10
+ACACCGACAC
+contig_437 len=9
+CTTAATCTT
+contig_438 len=9
+TGTTGATGT
+contig_439 len=9
+TGTTGATGT
+contig_440 len=12
+TGAAGATGAAGA
+contig_441 len=9
+CTTGGTCTT
+contig_442 len=10
+AAGCTAAAGC
+contig_443 len=10
+ATAGTCATAG
+contig_444 len=9
+ACTTACACT
+contig_445 len=8
+ACTTACAC
+contig_446 len=10
+ACTTACACTT
+contig_447 len=11
+AGAACTAGAAC
+contig_448 len=10
+AGAACTAGAA
+contig_449 len=11
+AGAACTAGAAC
+contig_450 len=8
+TAGAAATA
+contig_451 len=10
+CATTTTCATT
+contig_452 len=8
+CATTTTCA
+contig_453 len=11
+CAACCACAACC
+contig_454 len=14
+CAACCACAACCACC
+contig_455 len=9
+TCTACGTCT
+contig_456 len=8
+GCCAAGGC
+contig_457 len=8
+CGCTTTCG
+contig_458 len=9
+TAACTATAA
+contig_459 len=9
+ATGCAGATG
+contig_460 len=8
+TCAAGATC
+contig_461 len=8
+TGGGATTG
+contig_462 len=8
+ATTCCTAT
+contig_463 len=8
+AGAATAAG
+contig_464 len=8
+AATGAAAA
+contig_465 len=8
+CACGTCCA
+contig_466 len=8
+GAGCGTGA
+contig_467 len=8
+GGATCTGG
+contig_468 len=8
+GGGCATGG
+contig_469 len=8
+CCCGAACC
+contig_470 len=9
+AACATGAAC
+contig_471 len=8
+TGGGCATG
+contig_472 len=8
+GTGCGGGT
+contig_473 len=8
+ACCTTTAC
+contig_474 len=9
+TGAAGTTGA
+contig_475 len=10
+GCAGGGGCAG
+contig_476 len=9
+AAGGTGAAG
+contig_477 len=8
+AAGGTGAA
+contig_478 len=9
+TCAGGGTCA
+contig_479 len=10
+CGACCCCGAC
+contig_480 len=8
+ATGGTCAT
+contig_481 len=9
+TTGGCATTG
+contig_482 len=8
+TGCTAGTG
+contig_483 len=10
+CCAGTTCCAG
+contig_484 len=8
+CCAGTTCC
+contig_485 len=12
+CCAGTTCCAGTT
+contig_486 len=12
+TGTGGATGTGGA
+contig_487 len=8
+CTCCTACT
+contig_488 len=8
+GAAAATGA
+contig_489 len=13
+GTAGCTGTAGCTT
+contig_490 len=17
+GTAGCTGTAGCTTAGTT
+contig_491 len=15
+GTAGCTGTAGCTTAG
+contig_492 len=13
+GTAGCTGTAGCTT
+contig_493 len=15
+GTAGCTGTAGCTTAG
+contig_494 len=9
+TGACGTTGA
+contig_495 len=8
+TGACGTTG
+contig_496 len=9
+TTGGCCTTG
+contig_497 len=9
+GCTACCGCT
+contig_498 len=8
+ATTGATAT
+contig_499 len=8
+GCTTGGGC
+contig_500 len=8
+ATGGGGAT
+contig_501 len=8
+AAAACAAA
+contig_502 len=9
+AAAACAAAA
+contig_503 len=10
+GCAAAGGCAA
+contig_504 len=14
+TGGGGATGGGGAGA
+contig_505 len=10
+ATAGATATAG
+contig_506 len=10
+TTCCTCTTCC
+contig_507 len=12
+CGGGTACGGGTA
+contig_508 len=9
+CGGGTACGG
+contig_509 len=9
+GCCAACGCC
+contig_510 len=8
+GCCAACGC
+contig_511 len=10
+GCCAACGCCA
+contig_512 len=10
+GGGACAGGGA
+contig_513 len=8
+AGACATAG
+contig_514 len=8
+ACCGGTAC
+contig_515 len=9
+GGCACTGGC
+contig_516 len=9
+CTTAACCTT
+contig_517 len=9
+GTCAGCGTC
+contig_518 len=10
+GTCAGCGTCA
+contig_519 len=10
+CCTATACCTA
+contig_520 len=11
+TTTCCATTTCC
+contig_521 len=14
+TTTCCATTTCCACC
+contig_522 len=12
+TTTCCATTTCCA
+contig_523 len=11
+TTTCCATTTCC
+contig_524 len=10
+CGTGCACGTG
+contig_525 len=11
+TCACATTCACA
+contig_526 len=11
+TCACATTCACA
+contig_527 len=11
+CCTGGCCCTGG
+contig_528 len=8
+AGTTATAG
+contig_529 len=9
+TTGCCATTG
+contig_530 len=9
+TTGCCATTG
+contig_531 len=8
+CGAGCACG
+contig_532 len=9
+CCTAACCCT
+contig_533 len=8
+CCTAACCC
+contig_534 len=9
+CGGGAGCGG
+contig_535 len=8
+TTAATGTT
+contig_536 len=10
+TCCAACTCCA
+contig_537 len=11
+TCCAACTCCAA
+contig_538 len=10
+TCCAACTCCA
+contig_539 len=12
+TCCAACTCCAAC
+contig_540 len=15
+TCCAACTCCAACCCA
+contig_541 len=14
+TCCAACTCCAACCC
+contig_542 len=10
+CGAACTCGAA
+contig_543 len=10
+TTAACTTTAA
+contig_544 len=9
+TTAACTTTA
+contig_545 len=9
+ACATAGACA
+contig_546 len=8
+ATCTTTAT
+contig_547 len=8
+GGCAGCGG
+contig_548 len=8
+CCCTTACC
+contig_549 len=8
+GAAGCAGA
+contig_550 len=8
+GTGGCTGT
+contig_551 len=8
+CGAGTGCG
+contig_552 len=10
+CACAGCCACA
+contig_553 len=10
+CACAGCCACA
+contig_554 len=11
+CACAGCCACAG
+contig_555 len=9
+CAGGCGCAG
+contig_556 len=16
+ACAGAGACAGAGAAGA
+contig_557 len=10
+ACAGAGACAG
+contig_558 len=13
+ACAGAGACAGAGA
+contig_559 len=12
+ACAGAGACAGAG
+contig_560 len=11
+ACAGAGACAGA
+contig_561 len=11
+ACAGAGACAGA
+contig_562 len=13
+ACAGAGACAGAGA
+contig_563 len=11
+ACAGAGACAGA
+contig_564 len=9
+ACAGTCACA
+contig_565 len=9
+CCCTCCCCC
+contig_566 len=9
+TATAAATAT
+contig_567 len=9
+AAACCCAAA
+contig_568 len=10
+AAACCCAAAC
+contig_569 len=13
+AAACCCAAACCCA
+contig_570 len=12
+AAACCCAAACCC
+contig_571 len=8
+GCTTATGC
+contig_572 len=9
+GATTTGGAT
+contig_573 len=8
+ATACATAT
+contig_574 len=8
+AGAATGAG
+contig_575 len=8
+AGCACGAG
+contig_576 len=8
+CTCGGCCT
+contig_577 len=12
+GATGCGGATGCG
+contig_578 len=8
+AATCAGAA
+contig_579 len=8
+ACTATTAC
+contig_580 len=8
+GTTCAAGT
+contig_581 len=8
+CAAACTCA
+contig_582 len=8
+AATAGTAA
+contig_583 len=8
+TACTGCTA
+contig_584 len=8
+CTGATACT
+contig_585 len=10
+TGATGCTGAT
+contig_586 len=8
+TGATGCTG
+contig_587 len=8
+ACCTACAC
+contig_588 len=8
+CGGCCTCG
+contig_589 len=8
+ATGTCTAT
+contig_590 len=8
+AGTAAAAG
+contig_591 len=10
+CGCCTTCGCC
+contig_592 len=8
+CAACATCA
+contig_593 len=8
+CAACATCA
+contig_594 len=9
+GCTGATGCT
+contig_595 len=13
+ATGTTCATGTTCT
+contig_596 len=13
+ATGTTCATGTTCT
+contig_597 len=10
+CAATATCAAT
+contig_598 len=10
+GCCCTCGCCC
+contig_599 len=10
+GCCCTCGCCC
+contig_600 len=8
+GCCATTGC
+contig_601 len=8
+GCCATTGC
+contig_602 len=8
+GCGATCGC
+contig_603 len=8
+CCTCGCCC
+contig_604 len=8
+AGTGTAAG
+contig_605 len=8
+AGTGTAAG
+contig_606 len=9
+ATAGCGATA
+contig_607 len=8
+GGAGGTGG
+contig_608 len=8
+CGTCAGCG
+contig_609 len=8
+ACTGCAAC
+contig_610 len=9
+GGAACAGGA
+contig_611 len=8
+GGCTGGGG
+contig_612 len=8
+TCATCCTC
+contig_613 len=8
+TGAAACTG
+contig_614 len=8
+CAGAAGCA
+contig_615 len=8
+GATTATGA
+contig_616 len=8
+TGGATCTG
+contig_617 len=8
+GTAACAGT
+contig_618 len=8
+GTAACAGT
+contig_619 len=8
+AGGGCGAG
+contig_620 len=8
+ATGCTCAT
+contig_621 len=9
+AGATGGAGA
+contig_622 len=8
+GTGTTTGT
+contig_623 len=8
+CACCACCA
+contig_624 len=8
+GGTTTGGG
+contig_625 len=8
+ATGGTAAT
+contig_626 len=8
+GTGATCGT
+contig_627 len=8
+CCGGGGCC
+contig_628 len=8
+GAGTGAGA
+contig_629 len=8
+GCAACTGC
+contig_630 len=9
+CAACACCAA
+contig_631 len=8
+TTCCCTTT
+contig_632 len=8
+AATGTTAA
+contig_633 len=8
+GTGCCGGT
+contig_634 len=10
+CGTTGTCGTT
+contig_635 len=8
+CAACCTCA
+contig_636 len=8
+TCCCCTTC
+contig_637 len=8
+CAGTCTCA
+contig_638 len=8
+CTGCCTCT
+contig_639 len=10
+AGAGTAAGAG
+contig_640 len=8
+GATTGAGA
+contig_641 len=13
+GTGTTCGTGTTCT
+contig_642 len=13
+GTGTTCGTGTTCT
+contig_643 len=9
+GAGTAAGAG
+contig_644 len=9
+TTTACCTTT
+contig_645 len=8
+GCACCCGC
+contig_646 len=8
+CAGGCCCA
+contig_647 len=8
+AGACACAG
+contig_648 len=8
+CAAGTGCA
+contig_649 len=9
+GCAGTCGCA
+contig_650 len=8
+TCGCTTTC
+contig_651 len=8
+ACCAGCAC
+contig_652 len=9
+CTTCAACTT
+contig_653 len=8
+CTTCAACT
+contig_654 len=10
+TGGAAGTGGA
+contig_655 len=10
+TGGAAGTGGA
+contig_656 len=10
+TGGAAGTGGA
+contig_657 len=8
+TGTACTTG
+contig_658 len=9
+ACTGAAACT
+contig_659 len=8
+CCGGAGCC
+contig_660 len=9
+CACAATCAC
+contig_661 len=11
+CACAATCACAA
+contig_662 len=8
+GTTCAGGT
+contig_663 len=8
+GTTCAGGT
+contig_664 len=8
+GTTCTGGT
+contig_665 len=8
+ACCCCCAC
+contig_666 len=8
+GGGGGCGG
+contig_667 len=8
+AGAGCCAG
+contig_668 len=10
+CAGCTACAGC
+contig_669 len=8
+GCTGGGGC
+contig_670 len=8
+ACGCACAC
+contig_671 len=8
+TCATCTTC
+contig_672 len=8
+GGACTTGG
+contig_673 len=8
+GGCTTGGG
+contig_674 len=9
+AATCGTAAT
+contig_675 len=8
+CGTCACCG
+contig_676 len=8
+TAGCCATA
+contig_677 len=8
+TAGCCATA
+contig_678 len=8
+CCATACCC
+contig_679 len=8
+GACTGGGA
+contig_680 len=9
+GCTCTAGCT
+contig_681 len=8
+AGACCTAG
+contig_682 len=15
+CTAGTTCTAGTTTCA
+contig_683 len=14
+CTAGTTCTAGTTTC
+contig_684 len=12
+CTAGTTCTAGTT
+contig_685 len=15
+CTAGTTCTAGTTTCA
+contig_686 len=12
+CTAGTTCTAGTT
+contig_687 len=12
+CTAGTTCTAGTT
+contig_688 len=13
+CTAGTTCTAGTTT
+contig_689 len=15
+CTAGTTCTAGTTTCA
+contig_690 len=11
+CTAGTTCTAGT
+contig_691 len=8
+TACCGCTA
+contig_692 len=8
+AGGGACAG
+contig_693 len=8
+GATCTGGA
+contig_694 len=8
+TGCAACTG
+contig_695 len=10
+TACCAATACC
+contig_696 len=9
+AGTGAGAGT
+contig_697 len=8
+ATTATCAT
+contig_698 len=8
+AGCTAGAG
+contig_699 len=12
+TATCAGTATCAG
+contig_700 len=10
+TATCAGTATC
+contig_701 len=14
+TATCAGTATCAGTT
+contig_702 len=8
+CCCATCCC
+contig_703 len=8
+GCTGAGGC
+contig_704 len=9
+GGTGATGGT
+contig_705 len=16
+CCTGGTCCTGGTGTGG
+contig_706 len=12
+CCTGGTCCTGGT
+contig_707 len=17
+CCTGGTCCTGGTGTGGT
+contig_708 len=13
+CCTGGTCCTGGTG
+contig_709 len=9
+CCTGGTCCT
+contig_710 len=14
+CCTGGTCCTGGTGT
+contig_711 len=11
+CCTGGTCCTGG
+contig_712 len=15
+CCTGGTCCTGGTGTG
+contig_713 len=9
+ATTGTGATT
+contig_714 len=9
+CTTAGACTT
+contig_715 len=14
+CGGTGTCGGTGTGG
+contig_716 len=10
+CGGTGTCGGT
+contig_717 len=15
+CGGTGTCGGTGTGGT
+contig_718 len=11
+CGGTGTCGGTG
+contig_719 len=12
+CGGTGTCGGTGT
+contig_720 len=9
+CGGTGTCGG
+contig_721 len=13
+CGGTGTCGGTGTG
+contig_722 len=9
+GTGGGAGTG
+contig_723 len=8
+GGGATTGG
+contig_724 len=8
+GCTGACGC
+contig_725 len=13
+TTAGAGTTAGAGA
+contig_726 len=8
+AAAAGAAA
+contig_727 len=8
+ATGTCCAT
+contig_728 len=10
+TATTTTTATT
+contig_729 len=8
+CAGTAGCA
+contig_730 len=8
+TTTTGTTT
+contig_731 len=8
+TGGCATTG
+contig_732 len=11
+CTTCACCTTCA
+contig_733 len=8
+TCTAAGTC
+contig_734 len=8
+CGTGAACG
+contig_735 len=9
+GTTAGTGTT
+contig_736 len=8
+GTCCTCGT
+contig_737 len=8
+GGCCCCGG
+contig_738 len=8
+GAATGCGA
+contig_739 len=10
+ACAAAGACAA
+contig_740 len=8
+CTCGTACT
+contig_741 len=13
+GCTGCCGCTGCCA
+contig_742 len=12
+GCTGCCGCTGCC
+contig_743 len=8
+AAAGCAAA
+contig_744 len=8
+AACAAGAA
+contig_745 len=9
+CTGACCCTG
+contig_746 len=8
+AGTGCGAG
+contig_747 len=8
+GATCGCGA
+contig_748 len=8
+CCTGCCCC
+contig_749 len=9
+CGCCACCGC
+contig_750 len=8
+CGCAACCG
+contig_751 len=8
+ACCATCAC
+contig_752 len=8
+GGGTAGGG
+contig_753 len=16
+GATGGAGATGGAGAGA
+contig_754 len=8
+GATGGAGA
+contig_755 len=8
+CAGGGGCA
+contig_756 len=8
+TATCTGTA
+contig_757 len=8
+TTACATTT
+contig_758 len=8
+AAAGGTAA
+contig_759 len=9
+AGCCTTAGC
+contig_760 len=11
+GCCCACGCCCA
+contig_761 len=10
+GCCCACGCCC
+contig_762 len=8
+AACGCAAA
+contig_763 len=9
+GGTTTCGGT
+contig_764 len=8
+GTCCATGT
+contig_765 len=8
+GGTGACGG
+contig_766 len=8
+GTACGGGT
+contig_767 len=11
+ACCTTAACCTT
+contig_768 len=15
+ACCTTAACCTTAGTT
+contig_769 len=13
+ACCTTAACCTTAG
+contig_770 len=11
+ACCTTAACCTT
+contig_771 len=13
+ACCTTAACCTTAG
+contig_772 len=10
+ACAGAAACAG
+contig_773 len=10
+ACAGAAACAG
+contig_774 len=9
+CATGATCAT
+contig_775 len=9
+TATAACTAT
+contig_776 len=12
+GGACAGGGACAG
+contig_777 len=11
+GGACAGGGACA
+contig_778 len=12
+GGACAGGGACAG
+contig_779 len=12
+GGACAGGGACAG
+contig_780 len=16
+GGACAGGGACAGTGGA
+contig_781 len=12
+GGACAGGGACAG
+contig_782 len=8
+ACTTTTAC
+contig_783 len=8
+CGGATCCG
+contig_784 len=8
+TAAAATTA
+contig_785 len=8
+GGTTCAGG
+contig_786 len=8
+TACTCATA
+contig_787 len=8
+GATATGGA
+contig_788 len=8
+CTGTGTCT
+contig_789 len=8
+TCTGAGTC
+contig_790 len=9
+GTTACTGTT
+contig_791 len=9
+TGCTCCTGC
+contig_792 len=8
+GTACTTGT
+contig_793 len=8
+ATCATCAT
+contig_794 len=10
+TATAGATATA
+contig_795 len=10
+TATAGATATA
+contig_796 len=9
+GGCTAAGGC
+contig_797 len=9
+GCGGAGGCG
+contig_798 len=8
+TCGTAATC
+contig_799 len=8
+GGGCAAGG
+contig_800 len=8
+TGTTCGTG
+contig_801 len=8
+AAGGAAAA
+contig_802 len=10
+ACCCCAACCC
+contig_803 len=8
+ACTTGAAC
+contig_804 len=8
+GTTGATGT
+contig_805 len=12
+TTGAGCTTGAGC
+contig_806 len=9
+TTCTCCTTC
+contig_807 len=9
+TTCTCCTTC
+contig_808 len=8
+CCTAAACC
+contig_809 len=8
+CCCCATCC
+contig_810 len=11
+GGAAGGGGAAG
+contig_811 len=9
+CTTTAGCTT
+contig_812 len=10
+AATTTGAATT
+contig_813 len=11
+AATTTGAATTT
+contig_814 len=10
+AATTTGAATT
+contig_815 len=9
+AATTGGAAT
+contig_816 len=9
+AATTGGAAT
+contig_817 len=9
+TCACCGTCA
+contig_818 len=8
+CATCAACA
+contig_819 len=8
+ACATTCAC
+contig_820 len=9
+TTTGTGTTT
+contig_821 len=8
+CGGTGGCG
+contig_822 len=9
+GTGCAGGTG
+contig_823 len=10
+CAATGGCAAT
+contig_824 len=8
+CAGGGTCA
+contig_825 len=8
+GTCACTGT
+contig_826 len=8
+TCCTTTTC
+contig_827 len=8
+CAAGTCCA
+contig_828 len=8
+CCAATCCC
+contig_829 len=9
+TGAACATGA
+contig_830 len=8
+CTATGTCT
+contig_831 len=8
+GTGATAGT
+contig_832 len=9
+TGACGCTGA
+contig_833 len=8
+AGACCAAG
+contig_834 len=8
+CTGGGTCT
+contig_835 len=8
+GAGCATGA
+contig_836 len=8
+CAATGTCA
+contig_837 len=9
+AAACTTAAA
+contig_838 len=9
+GAACTCGAA
+contig_839 len=8
+AACTTTAA
+contig_840 len=13
+TATCCATATCCAG
+contig_841 len=11
+TATCCATATCC
+contig_842 len=12
+TATCCATATCCA
+contig_843 len=13
+TATCCATATCCAG
+contig_844 len=13
+TATCCATATCCAG
+contig_845 len=17
+TATCCATATCCAGTGGA
+contig_846 len=13
+TATCCATATCCAG
+contig_847 len=8
+TCAGTCTC
+contig_848 len=8
+TGCTTGTG
+contig_849 len=8
+TGAGGGTG
+contig_850 len=9
+CATTCACAT
+contig_851 len=8
+AACCTGAA
+contig_852 len=8
+TGATTGTG
+contig_853 len=10
+GGCGGTGGCG
+contig_854 len=12
+ATGCCAATGCCA
+contig_855 len=11
+ATGCCAATGCC
+contig_856 len=8
+TGGTGGTG
