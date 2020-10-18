@@ -281,29 +281,6 @@ def main():
 
     # Get arguments and using it
 
-    graph_1 = nx.DiGraph()
-    graph_1.add_weighted_edges_from([(1, 2, 10), (3, 2, 2), (2, 4, 15), (4, 5, 15)])
-    graph_1 = solve_entry_tips(graph_1, [1, 3])  
-    print( (3, 2) not in graph_1.edges())
-    print( (1, 2) in graph_1.edges())
-    graph_2 = nx.DiGraph()
-    graph_2.add_weighted_edges_from([(1, 2, 2), (6, 3, 2), (3, 2, 2),
-                                     (2, 4, 15), (4, 5, 15)])
-    graph_2 = solve_entry_tips(graph_2, [1, 6])  
-    print( (1, 2) not in graph_2.edges())
-    print( (6, 3) in graph_2.edges())
-    print( (3, 2) in graph_2.edges())
-
-    graph_1 = nx.DiGraph()
-    graph_1.add_weighted_edges_from([(1, 2, 15), (2, 3, 15), (3, 4, 15), (4, 5, 15), (4, 6, 2)])
-    graph_1 = solve_out_tips(graph_1, [5, 6])  
-    print( (4, 6) not in graph_1.edges())
-    print( (4, 5) in graph_1.edges()  )
-    graph_2 = nx.DiGraph()
-    graph_2.add_weighted_edges_from([(1, 2, 15), (2, 3, 15), (3, 4, 15), (4, 5, 2), (4, 6, 2) , (6, 7, 2)])
-    graph_2 = solve_out_tips(graph_2, [5, 7])  
-    print( (4, 5) not in graph_2.edges())
-    print( (6, 7) in graph_2.edges())
     
 
 if __name__ == '__main__':
